@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <PawnKindDef>
+    <defName>TraderShipsTrader</defName>
+    <label>airship trader</label>
+    <race>Human</race>
+    <combatPower>100</combatPower>
+    <backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+    <backstoryCategories>
+			<li>Tribal</li>
+		</backstoryCategories>
+    <apparelMoney>2000~3800</apparelMoney>
+    <apparelTags>
+      <li>MedievalMilitary</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Peasant</li>
+			<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_PeasantHelmet</li>
+    </apparelTags>
+    <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+    <weaponMoney>500~800</weaponMoney>
+    <weaponTags>
+      <li>MedievalMeleeBasic</li>
+      <li>MedievalMeleeDecent</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Bludgeon</li>
+			<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Hatchet</li>
+			<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Falchion</li>
+    </weaponTags>
+    <techHediffsMoney>2000~3000</techHediffsMoney>
+    <techHediffsTags>
+			<li>Poor</li>
+		</techHediffsTags>
+    <requiredWorkTags>
+			<li>Violent</li>
+		</requiredWorkTags>
+    <disallowedTraits>
+			<li>Wimp</li>
+			<li>Nudist</li>
+		</disallowedTraits>
+    <techHediffsChance>0.7</techHediffsChance>
+    <techHediffsMaxAmount>4</techHediffsMaxAmount>
+    <initialResistanceRange>19~29</initialResistanceRange>
+    <initialWillRange>3~5</initialWillRange>
+  </PawnKindDef>
+
+</Defs>
