@@ -15,6 +15,8 @@
       <li>MedievalMilitary</li>
       <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Peasant</li>
 			<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_PeasantHelmet</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Mercenary</li>
+			<li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_MercenaryHelmet</li>
     </apparelTags>
     <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
     <weaponMoney>500~800</weaponMoney>
