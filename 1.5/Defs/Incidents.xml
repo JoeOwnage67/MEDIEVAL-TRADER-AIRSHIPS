@@ -9,7 +9,7 @@
     </targetTags>
     <workerClass>TraderShips.IncidentWorkerTraderShip</workerClass>
     <category>OrbitalVisitor</category>
-    <baseChance>8</baseChance>
+    <baseChance>4</baseChance>
     <requireColonistsPresent>True</requireColonistsPresent>
   </IncidentDef>
 
@@ -21,7 +21,7 @@
     </targetTags>
     <workerClass>TraderShips.IncidentWorkerTraderShipCrash</workerClass>
     <category>Misc</category>
-    <baseChance>3</baseChance>
+    <baseChance>0.075</baseChance>
   </IncidentDef>
 
 </Defs>
